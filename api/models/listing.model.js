@@ -1,5 +1,4 @@
 import mongoose from 'mongoose'
-import { PiArrowLineRight } from 'react-icons/pi'
 
 const listingSchema = new mongoose.Schema({
     name:{
